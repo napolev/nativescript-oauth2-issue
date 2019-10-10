@@ -28,7 +28,7 @@ $ tns --version
         "@angular/platform-browser-dynamic": "~7.2.0",
         "@angular/router": "~7.2.0",
         "nativescript-angular": "~7.2.1",
-        "nativescript-oauth2": "^1.5.3",
+        "nativescript-oauth2": "^2.2.2",
         "nativescript-theme-core": "~1.0.4",
         "reflect-metadata": "~0.1.12",
         "rxjs": "~6.3.0",
@@ -48,7 +48,7 @@ $ tns --version
 
 ```
 $ git clone https://github.com/napolev/nativescript-oauth2-issue
-$ cd nativescript-oauth2-issue
+$ cd nativescript-oauth2-issue/demo-angular
 $ npm i
 $ tns platform clean android
 $ tns devices
